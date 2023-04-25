@@ -13,3 +13,7 @@ It includes details :- <br>
 •  Citation List Year-wise <br>
 •  Titles: Top 100 Cited Papers <br>
 •  URLs: Top 100 Cited Papers
+
+
+Reference dataset:- https://github.com/emeryberger/CSrankings
+Google scholar id's were fetched from this repository.
